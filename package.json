@@ -35,8 +35,5 @@
     "qs": "^6.14.0",
     "tough-cookie": "^4.1.4",
     "yt-search": "^2.13.1"
-  },
-  "overrides": {
-    "fs": "file:./patches/fs"
   }
 }
